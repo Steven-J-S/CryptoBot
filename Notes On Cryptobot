@@ -1,0 +1,5 @@
+
+Record Bid/Ask spread (slippage)
+What is maker/taker fee? (slippage)
+
+Implement 2 step method: (1) Strategy (2) Ordermoment (minimize slippage)

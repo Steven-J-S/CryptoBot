@@ -1,0 +1,22 @@
+numpy
+scipy
+scikit-learn
+bigfloat (+prerequisites)
+requests
+beautifulsoup4
+poloniex
+BayesianRegression
+TA-Lib (+dependencies)
+python-binance (Not yet)
+Anaconda
+Cython
+MongoDB
+Git
+Matplotlib
+
+pip install --upgrade pip
+
+Packages copy to venv
+cp -R /usr/lib/python2.7/dist-packages/M2Crypto /home/richard/hello-project/venv/lib/python2.7/site-packages/
+cp -R /usr/lib/python2.7/dist-packages/OpenSSL /home/richard/hello-project/venv/lib/python2.7/site-packages/
+
