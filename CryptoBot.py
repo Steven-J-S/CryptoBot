@@ -26,7 +26,7 @@ cluster2 = data['cluster2']
 cluster3 = data['cluster3']
 
 #RESET API KEYS REGULARLY
-polo = poloniex.Poloniex('9IL16T36-S0UMA41T-YY7T9GH2-7HLPOMUO','dfa7aa6900b4500cb949276b843c7241806c53a90aa1c02b447f99ebb40672b490672591a150a579e82db810e6128d670d77546b57a0659de0095c6594a37374')
+polo = poloniex.Poloniex('SECRET-POST-TOKEN','SECRET-GET-TOKEN')
 
 #Fetch balances and rates
 balances    = polo('returnBalances')
